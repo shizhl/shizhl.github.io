@@ -1,0 +1,4 @@
+Zhengliang Shi is currently (2025.07.24) a second-year Master's student in Computer Science and Technology at the General Artificial Intelligence Lab at Shandong University. His primary research focuses on Large Language Models (LLMs).
+He has gained valuable experience through multiple internships, including at Baidu and Tencent, as well as through academic visits to Leiden University and University of Amsterdam in the Netherlands.
+
+In addition to his research, he serves as an Area Chair for ARR (ACL Rolling Review) and review for top-tier conferences and journals such as SIGIR, WWW, WSDM, and IPM. Outside of academics, he enjoys staying active and engaged in a variety of hobbies, including running, fitness, and reading.
