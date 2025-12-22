@@ -1,0 +1,74 @@
+- title: General information
+  type: map
+  contents:
+    - name: Full Name
+      value: Zhengliang Shi
+    - name: Contact address
+      value: No.72 Binhai Road, Qingdao, China
+    - name: Email address
+      value: zhengliang.shii@gmail.com; shizhl@mail.sdu.edu.cn
+    - name: Github
+      value: <a href="https://github.com/shizhl">shizhl</a> ![Stars](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shizhl/github-stars-badge/master/stars.json&label=Stars&query=$.total&logo=github&logoColor=white&color=gold&style=flat-square)
+
+
+- title: Education
+  type: time_table
+  contents:
+    - title: M.S. in Computer Science and Technology
+      institution: Shandong University, Qingdao, China
+      year: 2023 - 2026
+      rank: 1 / 41
+    - title: B.E. in Computer Science and Technology
+      institution: Shandong University, Qingdao, China
+      year: 2019 - 2023
+      rank: 2 / 182
+      gpa: 93.46 / 100 (recalculate 3.96 / 4.00)
+      description: I also joined the `Elite Class` program and passed the examination successfully. 
+
+- title: Research experience
+  type: time_table
+  contents:
+    - title: Student Researcher
+      institution: Tencent, TEG multimodal department, Shenzhen, China
+      year: 2025.04 - Present
+      supervisor: Dr. <a href="https://tuzhaopeng.github.io/">Zhaopeng Tu</a>
+      description: LLM-based Agents
+
+    - title: Visiting Student
+      institution: Leiden University, Leiden, Netherlands
+      year: 2025.03 - 2025.04
+      supervisor: Prof. <a href="liacs.leidenuniv.nl/~verbernes/">Suzan Verberne</a> and Prof. <a href="https://renzhaochun.github.io/">Zhaochun Ren</a>
+      description: LLM Reasoning, Retrieval-augmented Generation
+
+    - title: Student Researcher
+      institution: Baidu, Search Science Team, Beijing, China
+      year: 2023.05 - 2025.03
+      supervisor: Dr. <a href="https://www.yindawei.com/">Dawei Yin</a> and Dr. <a href="https://yanlingyong.net/">Lingyong Yan</a>
+      description: LLM-based Agent; Tool-use Agents; Retrieval-augmented Generation
+
+    - title: Research Assistant
+      institution: Shandong University IRlab, Qingdao, China
+      year: 2021.09 - 2023.05
+      supervisor: Prof. <a href="https://renzhaochun.github.io/">Zhaochun Ren</a>
+      description: Retrieval-augmented Generation; LLM Hallucination
+
+
+- title: Awards
+  type: time_table
+  contents:
+    - title: Outstanding Academic Scholarship (Top 5%, Every year from 2019–2026)
+      year: 2019–2026
+    - title: Presidential Outstanding Scholarship (Top 1%, M.S.)
+      year: 2025.11
+    - title: National Outstanding Scholarship (Top 2.5%, M.S.)
+      year: 2025.10
+    - title: Dean's Outstanding Scholarship, Department of Computer Science (Top 2%, M.S.)
+      year: 2024.10
+    - title: Outstanding Undergraduate (Top 5%, B.E.)
+      year: 2023.06
+    - title: Presidential Outstanding Scholarship (Top 0.25%, B.E.)
+      year: 2022.10
+    - title: Dean's Outstanding Scholarship, Department of Computer Science (Top 2%, B.E.)
+      year: 2022.10
+    - title: National Outstanding Scholarship (Top 2.5%, B.E.)
+      year: 2021.10
