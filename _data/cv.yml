@@ -8,7 +8,7 @@
     - name: Email address
       value: zhengliang.shii@gmail.com; shizhl@mail.sdu.edu.cn
     - name: Github
-      value: <a href="https://github.com/shizhl">shizhl</a> ![Stars](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shizhl/github-stars-badge/master/stars.json&label=Stars&query=$.total&logo=github&logoColor=white&color=gold&style=flat-square)
+      value: <a href="https://github.com/mangopy">mangopy</a> ![Stars](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/shizhl/github-stars-badge/master/stars.json&label=Stars&query=$.total&logo=github&logoColor=white&color=gold&style=flat-square)
 
 
 - title: Education
