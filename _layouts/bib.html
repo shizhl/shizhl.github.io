@@ -175,6 +175,9 @@
           {%- if entry.blog %}
             <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
           {%- endif %}
+          {%- if entry.website %}
+            <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+          {%- endif %}
           {%- if entry.code %}
               <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
               {%- if site.badges and site.badges.github_stars and entry.code contains 'github.com' -%}
