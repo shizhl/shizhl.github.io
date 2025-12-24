@@ -8,7 +8,9 @@ nav: false
 
 (as of December 20, 2025)
 
-I am Zhengliang Shi, a computer science researcher. I received my bachelor’s degree in Computer Science from Shandong University in 2023 and am currently pursuing a master’s degree in Computer Science at Shandong University, with an expected graduation in 2026.
+I am Zhengliang Shi, working in computer science.
+
+I received my bachelor’s degree in Computer Science from Shandong University in 2023 and am currently pursuing a master’s degree in Computer Science at Shandong University, with an expected graduation in 2026.
 
 I am deeply interested in building open-ended agents that can provide unbiased and helpful assistance to humans. 
 To achieve this, my research focuses on natural language processing and large language models, spanning both practical applications and theoretical foundations.
