@@ -37,7 +37,7 @@ I have also been fortunate to  work closely with <a href="https://imsure318.gith
 
 I receive my B.E. degree from Shandong University.
 During my undergraduate studies, I was selected for the **Elite Class program**, supervised by Prof. <a href="https://renzhaochun.github.io/">Zhaochun Ren</a>, where I developed a strong interest in areas such as NLP.
-Feel free to view my <a href="./assets/pdf/CV-Zhengliang-Shi.pdf">CV</a> and <a href="./assets/pdf/transcript-Zhengliang-Shi.pdf">transcript</a>.
+Feel free to view my <a href="/assets/pdf/CV-Zhengliang-Shi.pdf">CV</a> and <a href="/assets/pdf/transcript-Zhengliang-Shi.pdf">transcript</a>.
 
 🤔 I am always excited about exploring practical, interesting problems, and have spent a wonderful time in core industry teams.
 I previously interned at Baidu's Search Science Team, supervised by <a href="https://yindawei.com">Dr. Dawei Yin</a>.
