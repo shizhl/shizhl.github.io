@@ -181,6 +181,13 @@
           {%- if entry.huggingface %}
             <a href="{{ entry.huggingface }}" class="btn btn-sm z-depth-0" role="button">Hugging Face</a>
           {%- endif %}
+          {%- if entry.slides %}
+            {% if entry.slides contains '://' -%}
+            <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
+            {%- else -%}
+            <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
+            {%- endif %}
+          {%- endif %}
           {%- if entry.code %}
               <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
               {%- if site.badges and site.badges.github_stars and entry.code contains 'github.com' -%}
@@ -197,13 +204,6 @@
             <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
             {%- else -%}
             <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
-            {%- endif %}
-          {%- endif %}
-          {%- if entry.slides %}
-            {% if entry.slides contains '://' -%}
-            <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
-            {%- else -%}
-            <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
             {%- endif %}
           {%- endif %}
           </div>
