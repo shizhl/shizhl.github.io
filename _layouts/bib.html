@@ -181,6 +181,13 @@
           {%- if entry.huggingface %}
             <a href="{{ entry.huggingface }}" class="btn btn-sm z-depth-0" role="button">Hugging Face</a>
           {%- endif %}
+          {%- if entry.video %}
+            {% if entry.video contains '://' -%}
+            <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button">Video</a>
+            {%- else -%}
+            <a href="{{ entry.video | prepend: '/assets/video/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Video</a>
+            {%- endif %}
+          {%- endif %}
           {%- if entry.slides %}
             {% if entry.slides contains '://' -%}
             <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
