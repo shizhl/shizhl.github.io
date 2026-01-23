@@ -42,6 +42,8 @@ Feel free to view my <a href="/assets/pdf/CV-Zhengliang-Shi.pdf">CV</a> and <a h
 🤔 I am always excited about exploring practical, interesting problems, and have spent a wonderful time in core industry teams.
 I previously interned at Baidu's Search Science Team, supervised by <a href="https://yindawei.com">Dr. Dawei Yin</a>.
 I also interned at the HunYuan team at Tencent, supervised by <a href="https://tuzhaopeng.github.io/">Dr. Zhaopeng Tu</a>.
+My research philosophy is <a href="https://en.wikipedia.org/wiki/KISS_principle">KISS</a> (i.e., Keep it Simple, Stupid).
+
 
 🧐 I work broadly on natural language processing and information retrieval, with a particular emphasis on LLMs.
 I investigate the core limitations of LLMs, such as hallucinations and the inability to interact with the digital world, that cannot be overcome by scaling alone.
