@@ -70,5 +70,5 @@ I am broadly interested in emerging directions in LLMs and agent systems, and I 
 ##### Services
 - **Area Chair** for ACL Rolling Review, including ACL, EMNLP, and NAACL.
 - **Program Committee** for AAAI, SIGIR, SIGIR-AP, WSDM, and TheWebConf (WWW)
-- **Reviewer** for TKDE (Transactions on Knowledge and Data Engineering), Information Processing & Management, ECIR, TKDD (ACM Transactions on Knowledge Discovery from Data), TORS (ACM Transactions on Recommender Systems)
+- **Reviewer** for ICLR, ICML, ECIR (The European Conference on Information Retrieval), TKDE (Transactions on Knowledge and Data Engineering), IPM (Information Processing & Management), TKDD (ACM Transactions on Knowledge Discovery from Data), TORS (ACM Transactions on Recommender Systems)
 <!-- - 2024 Reviewer for IJCAL, AAAI, ACL, EMNLP, NAACL, Information Processing & Management -->
